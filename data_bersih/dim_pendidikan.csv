@@ -1,9 +1,0 @@
-kode_pendidikan,nama_bps,nama_singkat,urutan,kode_kelompok,kode_pemuda
-P01,Tidak/belum pernah sekolah,Tidak sekolah,1,K1,Y1
-P02,Tidak/belum tamat SD,Tidak tamat SD,2,K1,Y1
-P03,SD,SD,3,K1,Y2
-P04,SLTP,SMP,4,K2,Y3
-P05,SLTA Umum/SMU,SMA,5,K3,Y4
-P06,SLTA Kejuruan/SMK,SMK,6,K4,Y4
-P07,Akademi/Diploma,Diploma I/II/III,7,K5,Y5
-P08,Universitas,D4/S1/S2/S3,8,K6,Y5
